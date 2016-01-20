@@ -49,7 +49,7 @@ class JoesCheckBook implements ActionListener{
 			frame.setSize(825,275);
 			frame.setLocation(300,200);
 			frame.setResizable(false);
-		pane = frame.getContentPane();
+			pane = frame.getContentPane();
 			pane.setLayout(cl);
 		
 		//TOP MENU CARD
